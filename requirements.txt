@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-anthropic
+openai
+chromadb
+tiktoken
+python-dotenv
+anthropic
