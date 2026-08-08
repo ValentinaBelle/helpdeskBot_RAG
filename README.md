@@ -3,5 +3,5 @@
 Даёт быстрый первичный ответ 24/7 и обрабатывает 60-70% стандартных вопросов.
 
 
-Техническая иллюстрация архитектуры RAG чат-бота:
+Визуально архитектура RAG чат-бота выглядит так:
 <img width="1536" height="1024" alt="RAG chatbot architecture" src="https://github.com/user-attachments/assets/153fba48-6c93-465c-8fba-7b5a2e4cd733" />
